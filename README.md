@@ -13,8 +13,8 @@ This project explores the design and optimization of a **real-time, on-device sp
 ## Translation Quality
 | Model | ChrF++ |
 |-----|------|
-| NLLB-200 (Base) | **67.33** |
-| NLLB-200 (Fine-tuned) | **67.28** |
+| NLLB-200 (Base) | **52.20** |
+| NLLB-200 (Fine-tuned) | **67.33** |
 
 ## Key Contributions
 - Fine-tuned NLLB-200 for engineering-domain translation
